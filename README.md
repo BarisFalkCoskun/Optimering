@@ -1,6 +1,9 @@
-# Optimering Exam - Potential Topics
-Potential topics for the oral exam in the Optimization (dOpt) course at Aarhus Universitet / Aarhus University (AU). Good luck!
+# Optimering eksamen - Potentielle emner (Optimization Exam - Potential Topics)
+Potential topics for the oral exam in the Optimization (dOpt / Opt) course at Aarhus Universitet / Aarhus University (AU). Good luck!
 Disclaimer: Not made by me.
+
+* [Kursuskatalog](https://kursuskatalog.au.dk/da/course/117969/Optimering)
+* [Course Catalogue](https://kursuskatalog.au.dk/en/course/117969/Optimization)
 
 ## Note
 The following is just a personal suggestion; you do not have to stick to this. If you find some other topic more interesting and easier to explain, you should do it. This is just to help you get started with the preparation.
@@ -56,5 +59,3 @@ Here you can focus on approximation algorithms for TSP (refer to Lecture 26 and 
 3. Do not spend too much time in tiny details, rather focus on the big picture, intuition, ideas. This will ensure you can recognise the key concepts and ideas.
 4. Do not assume that the examiners will be familiar with your notation or anything. So anything you are going to write on the whiteboard, state what it is.
 5. Try to make a presentation for 8-9 minutes, leaving some room for yourself and the examiners to ask you something.
-
-
