@@ -1,4 +1,4 @@
-# Optimering eksamen - Potentielle emner (Optimization Exam - Potential Topics)
+# Optimering eksamen på AU - Potentielle emner til dispositioner (Optimization Exam - Potential Topics)
 Potential topics for the oral exam in the Optimization (dOpt / Opt) course at Aarhus Universitet / Aarhus University (AU). Good luck!
 Disclaimer: Not made by me.
 
